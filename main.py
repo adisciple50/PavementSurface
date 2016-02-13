@@ -34,6 +34,7 @@ pavement_coverage = pavement_coverage_pc / 100
 
 solar_panel_meters = totalsqm * pavement_coverage
 
+# http://www.ownergy.co.uk/roof_solar/about/ for peak output.
 solar_panel_max_watts = 180 # per square meter
 
 solar_panel_expected_efficiency_pc = 25 # 50 percent
